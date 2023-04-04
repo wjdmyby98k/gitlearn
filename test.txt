@@ -1,5 +1,5 @@
 Git is a version control system.
 Git is free software !
 second commit.
-fix bug
+fix bug and test
 rebase test
