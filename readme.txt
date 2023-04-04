@@ -10,3 +10,4 @@ Creating a new branch is quick and simple.
 Creating a new branch is quick and simple.
 >>>>>>> feature1
 123123123123123123123123123123123123
+Git is free
